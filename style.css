@@ -4,12 +4,10 @@
 .Youtube1{
     border-radius: 10px;
     text-decoration: none;
+    font-size: xx-large;
+    font-family: sans-serif;
 }
 .Youtube1:hover{
     transition: all 0.5s;
     background-color: rgb(72, 0, 139);
-}
-.Youtube1{
-    font-size: xx-large;
-    font-family: sans-serif;
 }
