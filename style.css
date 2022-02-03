@@ -1,11 +1,11 @@
 .Gringos1{
     color: crimson;
 }
-.youtube1{
+.Youtube1{
     border-radius: 10px;
     text-decoration: none;
 }
-.youtube1:hover{
+.Youtube1:hover{
     transition: all 0.5s;
     background-color: darkblue;
 }
