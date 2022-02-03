@@ -3,6 +3,7 @@
 }
 .youtube1{
     border-radius: 10px;
+    text-decoration: none;
 }
 .youtube1:hover{
     transition: all 0.5s;
