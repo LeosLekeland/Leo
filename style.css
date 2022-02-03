@@ -4,3 +4,7 @@
 .youtube1{
     border-radius: 10px;
 }
+.youtube1:hover{
+    transition: all 0.5s;
+    background-color: darkblue;
+}
